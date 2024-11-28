@@ -1,0 +1,10 @@
+redmine_urls:
+  - url: "http://example.com/"
+    api_key: "abcdefg"
+    query_id: 13
+    limit: 100
+# Other Redmine instances can be added as needed
+# - url: "http://another-redmine.example.com/"
+#   api_key: "your-api-key"
+#   query_id: 1
+#   limit: 100
